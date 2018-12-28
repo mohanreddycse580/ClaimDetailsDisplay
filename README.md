@@ -1,2 +1,0 @@
-# ClaimDetailsDisplay
-Created with CodeSandbox
